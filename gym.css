@@ -105,7 +105,6 @@ header .bhead p{
 }
 .gap2{
     background-color: rgba(0, 0, 0, 0);
-    background-image: url(gym2.jpg);
     background-repeat: no-repeat;
     background-size:cover; 
     
@@ -113,4 +112,43 @@ header .bhead p{
 .gap2 img{
     background-size: cover;
     height: 600px;
+}
+.container3{
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    height: 600px;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+}
+.container35{
+    background-color: rgb(255, 255, 255);
+    color: rgba(0, 0, 0, 0.9);
+    width: 40%;
+    height: 600px;
+}
+.gap3{
+    background-color: rgba(0, 0, 0, 0);
+    background-repeat: no-repeat;
+    background-size:cover; 
+}
+.gap3 img{
+    background-size: cover;
+    height: 600px;
+}
+.title3{
+    background-color: rgb(255, 255, 255);
+    color: rgba(0, 0, 0, 0.9);
+    padding-left: 50px;
+    padding-top: 250px;
+    padding-bottom:30px ;
+    margin:auto;
+    font-size: 70px;
+}
+.subtitle3{
+    background-color: rgb(255, 255, 255);
+    color: rgba(0, 0, 0, 0.9);
+    padding-left:50px;
+    margin: auto;
+    font-size: 30px;
 }
