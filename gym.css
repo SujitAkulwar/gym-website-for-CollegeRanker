@@ -105,6 +105,7 @@ header .bhead p{
 }
 .gap2{
     background-color: rgba(0, 0, 0, 0);
+    background-image: url(gym2.jpg);
     background-repeat: no-repeat;
     background-size:cover; 
     
@@ -131,6 +132,7 @@ header .bhead p{
     background-color: rgba(0, 0, 0, 0);
     background-repeat: no-repeat;
     background-size:cover; 
+    
 }
 .gap3 img{
     background-size: cover;
