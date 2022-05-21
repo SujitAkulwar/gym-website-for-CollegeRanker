@@ -76,7 +76,7 @@ header .bhead p{
 .container2{
     background-color: rgba(0, 0, 0, 0);
     display: flex;
-    height: 400px;
+    height: 600px;
     width: 100%;
     margin: auto;
     padding: auto;
@@ -84,29 +84,33 @@ header .bhead p{
 .container25{
     background-color: rgb(255, 255, 255);
     color: rgba(0, 0, 0, 0.9);
-    width: 50%;
-    height: 500px;
+    width: 40%;
+    height: 600px;
 }
 .title2{
     background-color: rgb(255, 255, 255);
     color: rgba(0, 0, 0, 0.9);
-    padding: 50px;
+    padding-left: 50px;
+    padding-top: 250px;
+    padding-bottom:30px ;
     margin:auto;
-    font-size: 100px;
+    font-size: 70px;
 }
 .subtitle2{
     background-color: rgb(255, 255, 255);
     color: rgba(0, 0, 0, 0.9);
-    padding:50px;
+    padding-left:50px;
     margin: auto;
-    font-size: 60px;
+    font-size: 30px;
 }
 .gap2{
     background-color: rgba(0, 0, 0, 0);
     background-image: url(gym2.jpg);
     background-repeat: no-repeat;
     background-size:cover; 
+    
 }
 .gap2 img{
-    height: 500px;
+    background-size: cover;
+    height: 600px;
 }
