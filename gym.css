@@ -1,4 +1,48 @@
 *{
     margin: 0px;
     padding: 0px;
+    color: white;
+    background-color: black;
+}
+header{
+    height: 70px;
+    background-color: rgba(0, 119, 255, 0.5);
+    display: flex;
+    width: 100%;
+    margin: auto;
+    font-size: 20px;
+}
+header .fhead{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    background-color: rgba(0, 0, 0, 0);
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+header .fhead p{
+    background-color: rgba(0, 0, 0, 0);
+    margin:auto;
+}
+.gap{
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0);
+}
+header .bhead{
+    background-color: rgba(0, 0, 0, 0);
+    margin:auto ;
+}
+header .bhead p{
+    background-color: rgba(0, 0, 0, 0);
+    margin:auto ;
+}
+.container1{
+    border: 1px;
+    border-color: rgba(0, 0, 0, 0);
+    border-style: solid;
+    background-image:url(gym1.jpg);
+    width: 100%;
+    margin: auto;
+    padding: auto;
 }
