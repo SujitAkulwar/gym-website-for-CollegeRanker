@@ -38,11 +38,38 @@ header .bhead p{
     margin:auto ;
 }
 .container1{
-    border: 1px;
-    border-color: rgba(0, 0, 0, 0);
-    border-style: solid;
+    border: 1px solid black;
     background-image:url(gym1.jpg);
     width: 100%;
     margin: auto;
     padding: auto;
+    background-repeat: no-repeat;
+    background-size:cover; 
+    height: 800px;
+    display: flex;
+}
+.gap1{
+    width: 55%;
+    background-color: rgba(0, 0, 0, 0);
+}
+.gap1 p{
+    width: 50%;
+}
+.righttitle{
+    background-color: rgba(0, 0, 0, 0);
+}
+.title1{
+    background-color: rgba(0, 0, 0, 0);
+    padding-left: 60px;
+    padding-top: 75%;
+    padding-bottom: 20px;
+    margin:auto;
+    font-size: 100px;
+}
+.subtitle1{
+    background-color:rgba(0, 0, 0, 0);
+    font-size: 30px;
+    margin: auto;
+    padding-left: 60px;
+    padding-top: 20px;
 }
